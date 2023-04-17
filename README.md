@@ -1,5 +1,5 @@
 # SQL-Nashville-Housing-Data-Cleaning-Project
-The Nashville Housing project cleaned a real estate dataset for Nashville market by standardizing data formats, removing duplicates, and improving data completeness.
+The Nashville Housing project is about cleaning a real estate dataset for Nashville market by standardizing data formats, removing duplicates, and improving data completeness.
 1. About Project
 - The dataset contained information about property sales, rentals, and other real estate transactions in Nashville Housing market.
 - Applying data cleaning techniques, make the dataset became more consistent, complete, and usable for further analysis.
