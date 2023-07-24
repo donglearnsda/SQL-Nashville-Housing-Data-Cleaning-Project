@@ -1,14 +1,13 @@
-# SQL-Nashville-Housing-Data-Cleaning-Project
+# SQL-Nashville-Housing-Data-Quality-Assessment
 The Nashville Housing project is about cleaning a real estate dataset for Nashville market by standardizing data formats, removing duplicates, and improving data completeness.
 1. About Project
 - The dataset contained information about property sales, rentals, and other real estate transactions in Nashville Housing market.
-- Applying data cleaning techniques, make the dataset became more consistent, complete, and usable for further analysis.
 - Data source: https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data
 - Technologies used: MS SQL Server Management
 
 2. Project Planning & Aim Grid:
-- Main purpose: 
-  - Improve the quality and reliability of the dataset, ultimately enabling more accurate and meaningful insights to be drawn from the data.
+- Main purpose:
+  - Applying data cleaning and normalizing techniques, make the dataset became more consistent, complete, and usable for further analysis.
 - Stakeholders:
   - Real estate professionals
   - Investors
